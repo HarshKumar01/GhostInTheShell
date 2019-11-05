@@ -1,0 +1,19 @@
+body {
+  background: #3a6186;
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 1.2rem;
+  color: whitesmoke;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+#tip {
+  color: white;
+}
+
+div {
+  margin: 5px;
+}

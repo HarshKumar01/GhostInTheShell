@@ -1,1 +1,1 @@
-"# GhostInTheShell" 
+# GhostInTheShell
